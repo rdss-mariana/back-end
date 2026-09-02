@@ -1,0 +1,3 @@
+O switch funciona exatamente como um menu de escolhas (caso seja a opção A, faça isso. Caso seja a B,
+faça aquilo), enquanto o if else é uma tomada de decisão baseada em uma condição (se isso for verdade,
+faça isso. Se não for, faça outra coisa).
