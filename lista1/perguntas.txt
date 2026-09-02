@@ -1,0 +1,14 @@
+● O que acontece se o apache do XAMPP estiver desligado?
+- O site não abre no navegador porque o servidor online não está
+funcionando.
+
+● O que é o XAMPP?
+- É um pacote que instala um ambiente de servidor local para
+desenvolver e testar sites.
+
+● Papel do VS Code.
+- É o editor de código que é usado para criar e alterar os arquivos e
+pastas do site
+
+● Qual é o “link” para acessar nossos sites?
+- localhost/(nome da sua pasta)
